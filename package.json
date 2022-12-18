@@ -1,0 +1,23 @@
+{
+  "name": "phonetic-alphabet-converter-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.11.17",
+    "husky": "^8.0.2"
+  },
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexcdragomirescu/phonetic-alphabet-converter-typescript.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/alexcdragomirescu/phonetic-alphabet-converter-typescript/issues"
+  },
+  "homepage": "https://github.com/alexcdragomirescu/phonetic-alphabet-converter-typescript#readme"
+}
